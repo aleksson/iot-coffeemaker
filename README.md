@@ -12,3 +12,15 @@ Example @ App5 -> https://apps.app5.se/coffee
 - ESP8266 / NodeMCU
 - 10A 5V Relay 
 - Coffee maker / Kettle
+
+
+
+
+
+<br>
+
+
+
+ ### ☕ One more cup of coffee please! ☕
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFMQEBTS2VH4U)
